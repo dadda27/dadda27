@@ -17,7 +17,7 @@ So on my background there's a bit of experience and knowledge in regard of:\
 **- Server Administration**\
 **- Basic SQL**\
 **- Basic scripting (Bash, Powershell)**\
-**- Pretty good with ticketing tools**\
+**- Pretty good with ticketing tools**
 
 Hope you'll enjoy\
 Take care 🏝 
